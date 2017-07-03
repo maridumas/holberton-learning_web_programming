@@ -1,7 +1,6 @@
 let parameter =  process.argv[2];
 let a = 5
-let b = my_parameter
-if (parameter > a) {
+if (parameter > 5) {
   console.log("The value is greater than 5")
 }
 else {
